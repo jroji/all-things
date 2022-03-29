@@ -1,0 +1,18 @@
+.pokemon {
+    width: 100px;
+    height: 100px;
+    box-shadow: 1px 1px 1px gray;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.active {
+    background: red;
+}
+
+.name {
+    color: red;
+}
